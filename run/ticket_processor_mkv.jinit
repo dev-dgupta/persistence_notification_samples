@@ -1,0 +1,27 @@
+#platform setup
+mkv.COMPONENT=TICKETPROCESSOR
+mkv.CSHOST=33.33.33.10
+mkv.CSPORT=13000
+mkv.USER=mkv
+mkv.PWD=mkvpwd
+mkv.LISTEN=12382
+
+#auto generation of dbschema (for the demo purposes)
+mkv.db.hbm2ddl.auto=update
+mkv.db.format.sql = true
+mkv.db.show.sql = true
+
+
+#required source and currency
+mkv.SOURCE=TICKETPROCESSOR
+mkv.CURRENCY=ALL
+mkv.debug = 1
+mkv.log_threshold = 10
+
+
+#minimum required database setup
+mkv.DB.NAME=tmp/TKPDB
+mkv.DB.USER=TKPDB
+mkv.DB.PASSWORD=TKPDB
+mkv.DB.TYPE=HSQLFILE
+

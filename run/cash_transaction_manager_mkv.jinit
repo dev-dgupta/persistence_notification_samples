@@ -1,0 +1,28 @@
+#platform setup
+mkv.COMPONENT=CASH_TM
+mkv.CSHOST=localhost
+mkv.CSPORT=23000
+mkv.USER=mkv
+mkv.PWD=mkvpwd
+mkv.LISTEN=12381
+
+#logging configuration
+mkv.DEBUG=1
+mkv.LOG_THRESHOLD=10
+
+#required source and currency
+mkv.SOURCE=CASH_TM
+mkv.CURRENCY=ALL
+
+
+#auto generation of dbschema (for the demo purposes)
+mkv.db.hbm2ddl.auto = create
+mkv.db.format.sql = true
+mkv.db.show.sql = true
+
+
+
+mkv.DB.NAME=tmp/ACCNT
+mkv.DB.USER=ACCNT
+mkv.DB.PASSWORD=ACCNT
+mkv.DB.TYPE=HSQLFILE

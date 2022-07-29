@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.iontrading.isf:concurrent:0.2.68">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/isf/concurrent/0.2.68/concurrent-0.2.68.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/isf/concurrent/0.2.68/concurrent-0.2.68-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/isf/concurrent/0.2.68/concurrent-0.2.68-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.iontrading.isf:boot:0.2.54">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/isf/boot/0.2.54/boot-0.2.54.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/isf/boot/0.2.54/boot-0.2.54-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/isf/boot/0.2.54/boot-0.2.54-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

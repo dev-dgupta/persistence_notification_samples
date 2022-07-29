@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.iontrading.talk:talk.ionbus:0.7.83">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/talk/talk.ionbus/0.7.83/talk.ionbus-0.7.83.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/talk/talk.ionbus/0.7.83/talk.ionbus-0.7.83-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/talk/talk.ionbus/0.7.83/talk.ionbus-0.7.83-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

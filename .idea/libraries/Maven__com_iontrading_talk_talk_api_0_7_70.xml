@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.iontrading.talk:talk.api:0.7.70">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/talk/talk.api/0.7.70/talk.api-0.7.70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/talk/talk.api/0.7.70/talk.api-0.7.70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iontrading/talk/talk.api/0.7.70/talk.api-0.7.70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
